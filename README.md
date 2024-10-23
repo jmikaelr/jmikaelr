@@ -8,7 +8,6 @@
 | Python     | Utilized in various academic and personal projects, highlighting its versatility and power. |
 | Assembly   | Part of academic coursework and project, further developed in independent study. |
 | R          | Applied in several data analysis projects, especially in financial engineering studies. |
-| C/C++      | Used in multiple academic projects and competitions. |
 | SQL        | Used for database management and manipulation in various projects. |
 | Rust       | (New) Looking to learn Rust and contribute with my financial engineering knowledge |      
 ---
